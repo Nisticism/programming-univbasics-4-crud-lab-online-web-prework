@@ -1,5 +1,5 @@
 def create_an_empty_array
-  new_array => ["this", "is", "a_new", "array"]
+  new_array = ["this", "is", "a_new", "array"]
 end
 
 def create_an_array
